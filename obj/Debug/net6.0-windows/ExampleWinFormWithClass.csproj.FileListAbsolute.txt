@@ -1,0 +1,16 @@
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\bin\Debug\net6.0-windows\ExampleWinFormWithClass.exe
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\bin\Debug\net6.0-windows\ExampleWinFormWithClass.deps.json
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\bin\Debug\net6.0-windows\ExampleWinFormWithClass.runtimeconfig.json
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\bin\Debug\net6.0-windows\ExampleWinFormWithClass.dll
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\bin\Debug\net6.0-windows\ExampleWinFormWithClass.pdb
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\obj\Debug\net6.0-windows\ExampleWinFormWithClass.Form1.resources
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\obj\Debug\net6.0-windows\ExampleWinFormWithClass.csproj.GenerateResource.cache
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\obj\Debug\net6.0-windows\ExampleWinFormWithClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\obj\Debug\net6.0-windows\ExampleWinFormWithClass.AssemblyInfoInputs.cache
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\obj\Debug\net6.0-windows\ExampleWinFormWithClass.AssemblyInfo.cs
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\obj\Debug\net6.0-windows\ExampleWinFormWithClass.csproj.CoreCompileInputs.cache
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\obj\Debug\net6.0-windows\ExampleWinFormWithClass.dll
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\obj\Debug\net6.0-windows\refint\ExampleWinFormWithClass.dll
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\obj\Debug\net6.0-windows\ExampleWinFormWithClass.pdb
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\obj\Debug\net6.0-windows\ExampleWinFormWithClass.genruntimeconfig.cache
+C:\Users\jackc\Documents\GitHub\ExampleWinFormWithClasses\ExampleWinFormWithClass\obj\Debug\net6.0-windows\ref\ExampleWinFormWithClass.dll
